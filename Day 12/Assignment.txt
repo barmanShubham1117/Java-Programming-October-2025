@@ -1,0 +1,23 @@
+=== BEGINNER LEVEL LOOP QUESTIONS ===
+
+1. Write a for loop to print numbers from 1 to 10.
+
+2. Create a while loop to print even numbers from 2 to 20.
+
+3. Use a do-while loop to print "Hello" 5 times.
+
+4. Write a for loop to calculate the sum of numbers from 1 to 100.
+
+5. Create a loop to print the multiplication table of 5 (5x1 to 5x10).
+
+=== INTERMEDIATE LEVEL LOOP QUESTIONS ===
+
+1. Write nested loops to print a right triangle pattern of stars (*) with 5 rows.
+
+2. Create a program using loops to find all prime numbers between 1 and 50.
+
+3. Use loops to reverse a given integer number (e.g., 12345 becomes 54321).
+
+4. Write a program with loops to find the factorial of a number using both for and while loops.
+
+5. Create nested loops to print a diamond pattern of numbers where the middle row has 5 digits.
